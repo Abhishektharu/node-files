@@ -1,0 +1,4 @@
+
+1712560630654 : PATCH : /api/users/ : http : ::1
+1712560640193 : GET : /api/users/1 : http : ::1
+1712566392232 : POST : /api/users : http : ::1
